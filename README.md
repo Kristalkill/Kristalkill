@@ -1,3 +1,12 @@
+## Hi, my name is [END](https://www.youtube.com/channel/UC-r7FefpKluK-rlwaWlQFOw?view_as=subscriber). 
+
+## Social Media
+<a href="https://www.youtube.com/channel/UC-r7FefpKluK-rlwaWlQFOw?">
+  <img align="left" alt="Instagram" width="31px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/YouTube_social_red_square_%282017%29.svg/240px-YouTube_social_red_square_%282017%29.svg.png" />
+</a>
+## Projects (FUTURE)
+
+## Stats
 <!-- GITHUB STATS -->
 <a href="https://github.com/Kristalkill">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kristalkill&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=24&theme=dracula&title_color=f9826c" />
@@ -8,6 +17,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kristalkill&hide_title=true&langs_count=8&layout=compact&theme=dracula&title_color=f9826c" />
 </a>
 
+## EMINEM 🔥🔥🔥
 <!-- IMAGE BEGINS HERE -->
 
 ````````````````````````````````````````````````````````````````````````````````````````````````````
