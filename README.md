@@ -2,7 +2,7 @@
 
 ## Social Media
 <a href="https://www.youtube.com/channel/UC-r7FefpKluK-rlwaWlQFOw?">
-  <img align="left" alt="Instagram" width="31px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/YouTube_social_red_square_%282017%29.svg/240px-YouTube_social_red_square_%282017%29.svg.png" />
+  <img align="center" alt="Youtube" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/YouTube_social_red_square_%282017%29.svg/240px-YouTube_social_red_square_%282017%29.svg.png" />
 </a>
 
 ## Projects (FUTURE)
